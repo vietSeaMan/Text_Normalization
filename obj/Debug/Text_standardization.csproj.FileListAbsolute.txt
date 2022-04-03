@@ -1,0 +1,10 @@
+H:\C# .Net\Test\MyVeryFirstApp\Text_standardization\Text_standardization\bin\Debug\Text_standardization.exe
+H:\C# .Net\Test\MyVeryFirstApp\Text_standardization\Text_standardization\bin\Debug\Text_standardization.pdb
+H:\C# .Net\Test\MyVeryFirstApp\Text_standardization\Text_standardization\obj\Debug\Text_standardization.csproj.AssemblyReference.cache
+H:\C# .Net\Test\MyVeryFirstApp\Text_standardization\Text_standardization\obj\Debug\Text_standardization.Form1.resources
+H:\C# .Net\Test\MyVeryFirstApp\Text_standardization\Text_standardization\obj\Debug\Text_standardization.Form2.resources
+H:\C# .Net\Test\MyVeryFirstApp\Text_standardization\Text_standardization\obj\Debug\Text_standardization.Properties.Resources.resources
+H:\C# .Net\Test\MyVeryFirstApp\Text_standardization\Text_standardization\obj\Debug\Text_standardization.csproj.GenerateResource.cache
+H:\C# .Net\Test\MyVeryFirstApp\Text_standardization\Text_standardization\obj\Debug\Text_standardization.csproj.CoreCompileInputs.cache
+H:\C# .Net\Test\MyVeryFirstApp\Text_standardization\Text_standardization\obj\Debug\Text_standardization.exe
+H:\C# .Net\Test\MyVeryFirstApp\Text_standardization\Text_standardization\obj\Debug\Text_standardization.pdb
